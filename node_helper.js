@@ -1,5 +1,5 @@
 /* Magic Mirror
- * Node Helper: MMM-air-quality
+ * Node Helper: MMM-IQAir
  *
  * By PavlenkoM
  */
