@@ -11,7 +11,7 @@ Based on data from [IQAir](https://www.iqair.com).
 
 ## Installation
 1. Install and configure [MagicMirror](https://docs.magicmirror.builders).
-2. Navigate into your MagicMirror's `modules` folder and execute `git clone https://github.com/PavlenkoM/MMM-air-quality.git`
+2. Navigate into your MagicMirror's `modules` folder and execute `git clone https://github.com/PavlenkoM/MMM-IQAir.git`
 3. To use this module, add it to the modules array in the `config/config.js` file:
 ````javascript
 modules: [
